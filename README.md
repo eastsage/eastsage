@@ -6,5 +6,5 @@
 <img src="https://img.shields.io/badge/spring JPA-6DB33F?style=flat&logo=spring&logoColor=white">  
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">  
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">  
-4가지 기술을 활용하여 짧은 시간에 열약한 환경에서 개판으로 개발해서 애정만 남아있는 프로젝트를 리펙토링 예정입니다.🤔
+4가지 기술을 활용하여 짧은 시간에 열약한 환경에서 개판으로 개발해서 애정만 남아있는 [프로젝트](https://github.com/eastsage/Capstone)를 리펙토링 예정입니다.🤔
 
