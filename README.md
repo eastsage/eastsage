@@ -1,6 +1,6 @@
 ### 간절하게 성장하고 싶은 개발자 이동현입니다 🧎
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> : 자바를 사용해서 알고리즘 공부를 하고 있으며 현재는 객체지향, 람다, 스트림에 대해 공부하고 있습니다.  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> : 자바를 사용해서 알고리즘 공부를 하고 있으며 현재는 클린코드, 객체지향, 람다, 스트림에 대해 공부하고 있습니다.  
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"> : 부족한 저를 늘 도와주는 인텔리제이를 연모하고 있습니다.  
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">  
 <img src="https://img.shields.io/badge/spring JPA-6DB33F?style=flat&logo=spring&logoColor=white">  
